@@ -1,2 +1,2 @@
 # Shelf
-https://dunja259.github.io/Shelf/
+https://dunja259.github.io/Shelf/nikiclass
